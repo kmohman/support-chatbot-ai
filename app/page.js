@@ -166,7 +166,7 @@ export default function Home() {
               <Box display="flex" justifyContent="center" alignItems="center" mb={2}>
                 <IconButton
                   component="a"
-                  href="https://github.com/yourusername" // Replace with your GitHub link
+                  href="https://github.com/kmohman" 
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
