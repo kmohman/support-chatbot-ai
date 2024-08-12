@@ -134,7 +134,7 @@ export default function Home() {
                 align="left"
                 sx={{ mb: 4, color: '#FFD700', textShadow: '1px 1px 3px rgba(0, 0, 0, 0.5)' }} // Gold color for the hook
               >
-                'Empowering your journey with smart assistance.'
+                Empowering your journey with smart assistance.
               </Typography>
               <Button
                 variant="contained"
