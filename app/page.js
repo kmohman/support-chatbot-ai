@@ -183,7 +183,7 @@ export default function Home() {
                 </IconButton>
                 <IconButton
                   component="a"
-                  href="https://linkedin.com/in/yourusername" // Replace with your LinkedIn link
+                  href="https://www.linkedin.com/in/khalilullah-mohman-045161244/"
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
